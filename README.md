@@ -4,7 +4,7 @@
 
 ---
 
-##### [各类禁书下载](http://209.222.30.114:10000/bbooks/) &nbsp;|&nbsp; [新冠病毒疫源和武汉病毒所调查报告全文](https://github.com/gfw-breaker/ccp-virus)
+##### [各类禁书下载](http://209.222.30.114:10000/bbooks/) &nbsp;|&nbsp; [美国驻华使馆官网：华为首席财务官孟晩舟承认误导全球金融机构](https://china.usembassy-china.org.cn/zh/huawei-cfo-wanzhou-meng-admits-to-misleading-global-financial-institution-cn/)
 
 ---
 
