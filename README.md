@@ -1,10 +1,10 @@
 # V2Ray 免费账号（速度比SS块，且不易被封锁）
 
-##### [免翻墙观看油管热门视频](http://192.248.146.163:81/youtube.html) &nbsp;|&nbsp; [苹果手机使用无界VPN翻墙](https://github.com/gfw-breaker/nogfw/blob/master/docs/iphone_u.md)
+##### [免翻墙观看油管热门视频](http://78.141.244.201:81/youtube.html) &nbsp;|&nbsp; [苹果手机使用无界VPN翻墙](https://github.com/gfw-breaker/nogfw/blob/master/docs/iphone_u.md)
 
 ---
 
-##### [各类禁书下载](http://192.248.146.163:10000/bbooks/) &nbsp;|&nbsp; [美国驻华使馆官网：华为首席财务官孟晩舟承认误导全球金融机构](https://china.usembassy-china.org.cn/zh/huawei-cfo-wanzhou-meng-admits-to-misleading-global-financial-institution-cn/?ok)
+##### [各类禁书下载](http://78.141.244.201:10000/bbooks/) 
 
 ---
 
